@@ -1,1 +1,1 @@
-# newpaper_website
+# newspaper_website
